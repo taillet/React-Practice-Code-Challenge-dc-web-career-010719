@@ -50,3 +50,8 @@ If and only if you have time, you may work on the following:
 3. Anything else!
 
 **Note:** If at the end of the challenge you have achieved all the functionality required but the style looks off, this is okay!
+
+
+1. get & read 4 sushi on load of page
+2. on Click of More Sushi, show next 4 sushis
+3. Eat sushi => {remove sushi,create plate on table, check & calculate balance}
